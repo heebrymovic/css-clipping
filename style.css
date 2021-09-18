@@ -6,3 +6,4 @@ div{width: 200px; height: 200px; background: crimson; margin: 20px; display: inl
 .rhombus{ clip-path: polygon( 50% 0, 100% 50%, 50% 100%, 0 50%); }
 .pentagon{ clip-path: polygon(50% 0%, 100% 35%, 80% 100%, 20% 100%, 0% 35%);}
 .hexagon{ clip-path: polygon( 50% 0, 100% 25%, 100% 75%,  50% 100%, 0 75%, 0 25%); }
+.heptagon{ clip-path:  polygon( 50% 0, 90% 15%, 100% 50%, 75% 100%, 25% 100%,0 50%, 10% 15%); }
