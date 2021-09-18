@@ -4,4 +4,5 @@ div{width: 200px; height: 200px; background: crimson; margin: 20px; display: inl
 .trapezoid{ clip-path: polygon( 25% 0, 75% 0, 100% 100%, 0 100%); }
 .parallel{ clip-path: polygon( 25% 0, 100% 0, 80% 100%,  0 100%); }
 .rhombus{ clip-path: polygon( 50% 0, 100% 50%, 50% 100%, 0 50%); }
-.pentagon{ clip-path: polygon(50% 0%, 100% 35%, 80% 100%, 20% 100%, 0% 35%); }
+.pentagon{ clip-path: polygon(50% 0%, 100% 35%, 80% 100%, 20% 100%, 0% 35%);}
+.hexagon{ clip-path: polygon( 50% 0, 100% 25%, 100% 75%,  50% 100%, 0 75%, 0 25%); }
