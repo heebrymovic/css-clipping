@@ -16,3 +16,4 @@ div{width: 150px; height: 150px; background: crimson; margin: 20px; display: inl
 .octagon{ clip-path: polygon( 30% 0%, 70% 0%, 100% 30%, 100% 68%, 70% 100%, 30% 100%, 0 68%, 0 30%); }
 .nonagon{ clip-path: polygon(  50% 0%, 80% 15%, 100% 45%, 90% 80%, 65% 100%, 30% 100%, 10% 80%, 0 45%, 15% 15%); }
 .decagon{ clip-path: polygon( 50% 0, 80% 12%, 100% 35%, 100% 68%, 80% 89%, 50% 100%, 20% 89%, 0 68%, 0 35%, 20% 12%   ); }
+.rabbet{ clip-path: polygon( 0 20%, 20% 20%,20% 0, 80% 0, 80% 20% ,100% 20%, 100% 80%,80% 80%,80% 100%, 20% 100%, 20% 80%, 0 80% ); }
