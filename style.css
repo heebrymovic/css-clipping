@@ -14,3 +14,4 @@ div{width: 200px; height: 200px; background: crimson; margin: 20px; display: inl
 .hexagon{ clip-path: polygon( 50% 0, 100% 25%, 100% 75%,  50% 100%, 0 75%, 0 25%); }
 .heptagon{ clip-path:  polygon( 50% 0, 90% 15%, 100% 50%, 75% 100%, 25% 100%,0 50%, 10% 15%); }
 .octagon{ clip-path: polygon( 30% 0%, 70% 0%, 100% 30%, 100% 68%, 70% 100%, 30% 100%, 0 68%, 0 30%); }
+.nonagon{ clip-path: polygon(  50% 0%, 80% 15%, 100% 45%, 90% 80%, 65% 100%, 30% 100%, 10% 80%, 0 45%, 15% 15%); }
