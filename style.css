@@ -1,5 +1,5 @@
 body, html{padding: 0; margin: 0;}	
-div{width: 200px; height: 200px; background: crimson; margin: 20px; display: inline-block;}
+div{width: 150px; height: 150px; background: crimson; margin: 20px; display: inline-block;}
 
 /*triangle format with four coordinates*/
 .triangle{ clip-path: polygon( 50% 0%, 50% 0%, 100% 100%, 0 100% );}
@@ -15,3 +15,4 @@ div{width: 200px; height: 200px; background: crimson; margin: 20px; display: inl
 .heptagon{ clip-path:  polygon( 50% 0, 90% 15%, 100% 50%, 75% 100%, 25% 100%,0 50%, 10% 15%); }
 .octagon{ clip-path: polygon( 30% 0%, 70% 0%, 100% 30%, 100% 68%, 70% 100%, 30% 100%, 0 68%, 0 30%); }
 .nonagon{ clip-path: polygon(  50% 0%, 80% 15%, 100% 45%, 90% 80%, 65% 100%, 30% 100%, 10% 80%, 0 45%, 15% 15%); }
+.decagon{ clip-path: polygon( 50% 0, 80% 12%, 100% 35%, 100% 68%, 80% 89%, 50% 100%, 20% 89%, 0 68%, 0 35%, 20% 12%   ); }
